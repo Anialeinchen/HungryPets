@@ -11,7 +11,7 @@
         android:background="@color/colorRequest"
         android:gravity="center"
         android:padding="40dp"
-        android:text="requested"
+        android:text="@string/requested"
         android:textAllCaps="true" />
 
     <LinearLayout
@@ -26,7 +26,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@color/colorDismiss"
-            android:text="dismiss"
+            android:text="@string/dissmiss"
             android:textAllCaps="true" />
 
         <TextView
@@ -36,7 +36,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@color/colorApprove"
-            android:text="approve"
+            android:text="@string/approve"
             android:textAllCaps="true" />
     </LinearLayout>
 
