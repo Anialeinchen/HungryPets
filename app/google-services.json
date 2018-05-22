@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073202833434",
+    "firebase_url": "https://hungrypets-5b73f.firebaseio.com",
+    "project_id": "hungrypets-5b73f",
+    "storage_bucket": "hungrypets-5b73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073202833434:android:fd32f4ef23135b68",
+        "android_client_info": {
+          "package_name": "com.annamorgiel.hungrypets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073202833434-adqvp3n0modd605gp8me64n6d9ph3e1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.annamorgiel.hungrypets",
+            "certificate_hash": "46ede44337588d854e72943800475f660b7d8afd"
+          }
+        },
+        {
+          "client_id": "1073202833434-u89a97jmuvj5aauik1jsvufbn5aef9n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjq33WijApcNKpaZg97jP_3aPmIRRA-FY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073202833434-u89a97jmuvj5aauik1jsvufbn5aef9n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
